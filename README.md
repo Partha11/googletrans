@@ -7,6 +7,7 @@ The base is taken from the [feature/rpc](https://github.com/ssut/py-googletrans/
 Comparing with PyPI, the base uses [v4.0.0rc1](https://pypi.org/project/googletrans/4.0.0rc1/) which was the last version on pypi, including pre-releases.
 
 > **Note**: I have no intention to add features or to maintain this project. This is a temporary solution to a temporary a problem, hopefully.
+> **Note**: This fork has been updated for using with python 3.6+
 
 As the original project ended with version `4.0.0rc1` (pre-release), this fork's versioning starts from `4.0.0` (stable release).
 
